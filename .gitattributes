@@ -1,2 +1,2 @@
 *.html linguist-detectable=false
-C_Plus_Credential_Manager/build/CManager/** linguist-detectable=false
+build/CManager/** linguist-detectable=false
